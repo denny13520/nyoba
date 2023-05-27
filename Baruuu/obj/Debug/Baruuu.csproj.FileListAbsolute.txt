@@ -1,0 +1,10 @@
+E:\nyoba\Baruuu\bin\Debug\Baruuu.exe.config
+E:\nyoba\Baruuu\bin\Debug\Baruuu.exe
+E:\nyoba\Baruuu\bin\Debug\Baruuu.pdb
+E:\nyoba\Baruuu\obj\Debug\Baruuu.csproj.AssemblyReference.cache
+E:\nyoba\Baruuu\obj\Debug\Baruuu.csproj.SuggestedBindingRedirects.cache
+E:\nyoba\Baruuu\obj\Debug\Baruuu.Properties.Resources.resources
+E:\nyoba\Baruuu\obj\Debug\Baruuu.csproj.GenerateResource.cache
+E:\nyoba\Baruuu\obj\Debug\Baruuu.csproj.CoreCompileInputs.cache
+E:\nyoba\Baruuu\obj\Debug\Baruuu.exe
+E:\nyoba\Baruuu\obj\Debug\Baruuu.pdb
